@@ -1,0 +1,3 @@
+- [[Vraag 2.5]]
+- [simr r package](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.12504), also check additional materials at the bottom of the page
+-
